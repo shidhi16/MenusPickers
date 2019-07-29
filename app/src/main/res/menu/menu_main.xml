@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Add" app:showAsAction="always" android:icon="@android:drawable/ic_input_add" android:id="@+id/mnu_Add"/>
+
+    <item android:title="Update" app:showAsAction="ifRoom" android:icon="@android:drawable/ic_dialog_email" android:id="@+id/mnu_Update"/>
+
+    <item android:title="Delete" app:showAsAction="ifRoom" android:id="@+id/mnu_Delete"/>
+
+    <item android:title="Next" app:showAsAction="ifRoom" android:id="@+id/mnu_Next"/>
+
+</menu>
