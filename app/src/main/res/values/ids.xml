@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="mnu_Update" type="id" />
+    <item name="mnu_Next" type="id" />
+    <item name="mnu_Delete" type="id" />
+    <item name="mnu_Add" type="id" />
+</resources>
